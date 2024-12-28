@@ -1,4 +1,5 @@
 Author: Truc (Ella) Tran
+
 Description: This program receives the user input (ingredients) and generates corresponding meals.
 
 # Getting Started with Create React App
