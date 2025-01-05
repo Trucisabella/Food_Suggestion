@@ -1,6 +1,15 @@
 .App {
   text-align: center;
   font-family: Arial, sans-serif;
+  background-image: url('../img/Background.jpeg');
+  background-size: 100%;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.App h1 {
+  margin: 0;
+  padding: 20px;
 }
 
 form {
