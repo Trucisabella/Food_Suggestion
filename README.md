@@ -1,7 +1,8 @@
 # Food Suggestion
 Author: Ella Tran
 
-Overview: This program receives the user input (ingredients) and generates corresponding meals.
+Overview: This program receives the user input (ingredients) and generates corresponding meals.\
+![Project Logo](img/Demo_Image.png)
 
 ## Steps
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -16,6 +17,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## Demo
+[https://foodwithme.netlify.app](https://foodwithme.netlify.app)
 
 ## Images Credit
 - Background: [Prostock-studio / Adobe Stock](https://stock.adobe.com/ca/images/wallpaper-abstract-composition-of-fruits-and-vegetables/227780385?prev_url=detail)
